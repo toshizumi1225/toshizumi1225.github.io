@@ -1,11 +1,11 @@
 name: "サイトタイトル"
 navbar: 
-  title: "My ウェブサイト"
+  title: "Toshizumi Muta"
   left:
     # - text: "ホーム"
     #   href: index.html
-    - text: "趣味"
-      href: shumi.html
+    - text: "CV"
+      href: cv.html
 output:
   html_document:
     # theme: cosmo

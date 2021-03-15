@@ -1,21 +1,25 @@
 ---
-title: トップページ名
+title: Home
 ---
 
 ## index
 
-### さんぷる
+### Who
 
-- ほげ
-- ふが
+- MUTA, Toshizumi (牟田, 季純)
 
-### さんぷるさんぷる
+### Affiliation
 
-あめんぼあかいなあいうえお。あめんぼあかいなあいうえお。あああああああああああああああああああああああああああああ。
+- Waseda University
+  - Junior Researcher
 
-あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ。
+### Interests
 
-## ふがふが
-
-ああああああああああああああああああああああああああああああああああ。あああああああああああああああああああ
-
+- Psychology
+  - Awareness, Emotion, Music, Mindfulness
+- Philosophy
+  - Epistemology, Constructivism
+- Musicology
+  - Guitar, Vox, Keys
+- Designology
+  - Desktop Publishing
